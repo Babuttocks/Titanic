@@ -1,2 +1,2 @@
-# Titanic
-Contribution to Titanic Project
+# Titanic-Prediction
+Pandas, NumPy, matplotlib, RandomForestClassifier, DecisionTreeClassifier, KNeighborsClassifier
